@@ -1,0 +1,35 @@
+TITRE : Checklist rapide — Reporting et conformité pour sociétés mères
+
+OBJECTIF : Liste de contrôle opérationnelle à usage des directions juridiques et financières.
+
+Registres internes
+
+Registre des décisions stratégiques du groupe : O/N
+
+Registre des flux inter-sociétés : O/N
+
+Processus de documentation
+
+Procédure écrite pour l’attribution des coûts et revenus intragroupe : O/N
+
+Politique d’archivage des justificatifs : O/N
+
+Gouvernance
+
+Rapports trimestriels au conseil sur les opérations intragroupe : O/N
+
+Procédures de revue indépendante (audit interne ou externe) : O/N
+
+Conformité
+
+Vérification KYC des partenaires majeurs : O/N
+
+Mise à jour annuelle des politiques AML/FT : O/N
+
+Actions correctives
+
+Plan d’actions formalisé en cas d’écart : O/N
+
+Responsable dédié identifié : Nom/Contact
+
+FIN

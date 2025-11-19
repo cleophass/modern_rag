@@ -1,0 +1,25 @@
+TITRE : Encadrement pratique des engagements de confidentialité — synthèse 2025
+
+OBJET : Note pratique à l’usage des conseils et des responsables RH.
+
+CONTEXTE Depuis 2023, les tribunaux administratifs et civils ont insisté sur la nécessité d’adapter les clauses de confidentialité à la réalité des fonctions et des informations protégées. Les entreprises doivent éviter des formulations absolues et des durées imprécises qui privent le contractant de toute marge d’activité professionnelle.
+
+POINTS CLÉS
+
+Définir précisément les catégories d’informations couvertes (ex. : secrets industriels identifiés, listes clients nominatives) ; éviter les libellés généraux.
+
+Limiter la durée de l’obligation à une période justifiée par l’intérêt légitime (ex. 2 à 5 ans selon la sensibilité).
+
+Prévoir des mécanismes d’exception (obligations légales, information publique déjà accessible).
+
+Prévoir une clause de territorialité quand pertinent.
+
+RECOMMANDATIONS PRATIQUES
+
+Utiliser un inventaire annexé au contrat décrivant les éléments confidentiels.
+
+Insérer une clause de proportionnalité précisant que la confidentialité ne doit pas empêcher l’exercice professionnel.
+
+Prévoir une procédure de résolution amiable en cas de conflit d’interprétation.
+
+CONCLUSION Des clauses ciblées, temporellement limitées et transparentes réduisent les risques contentieux et favorisent la sécurité juridique des parties.

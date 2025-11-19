@@ -1,0 +1,13 @@
+TITRE : Résumé critique — Décision administrative (février 2024) : portée des clauses de confidentialité
+
+FAITS Un prestataire externe contestait une clause de confidentialité réputée trop vaste et sans limitation temporelle, estimant qu’elle portait atteinte à sa liberté professionnelle.
+
+APPRÉCIATION JURIDICTIONNELLE La juridiction a rappelé le principe selon lequel la protection d’informations sensibles doit être proportionnée. Elle a relevé l’absence d’éléments précis fixant la durée et le champ des informations protégées.
+
+DÉCISION La clause, dans la mesure où elle ne comportait ni durée ni définition suffisante, a été dessaisie de son effet obligatoire. La cour a recommandé la rédaction de clauses circonscrites et temporellement définies.
+
+IMPACTS PRATIQUES
+
+Les contrats cadre doivent désormais intégrer des définitions opérationnelles des informations couvertes.
+
+Les praticiens doivent anticiper des contestations lorsque le libellé est trop abstrait.
