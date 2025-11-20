@@ -33,7 +33,7 @@
 
 ```bash
 git clone https://github.com/cleophass/modern_rag.git
-cd test_technique
+cd modern_rag
 ```
 
 ### 2. Créer l'environnement Python
