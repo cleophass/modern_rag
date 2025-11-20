@@ -32,7 +32,7 @@
 ### 1. Cloner le repository
 
 ```bash
-git clone https://github.com/AI-Sisters/test_technique.git
+git clone https://github.com/cleophass/modern_rag.git
 cd test_technique
 ```
 
